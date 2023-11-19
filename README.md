@@ -1,16 +1,54 @@
-# fitness_app
 
-A new Flutter project.
+![Logo](data:image/png;base64,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)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# FlutterFit App
 
-A few resources to get you started if this is your first Flutter project:
+`flutterFit` is a fitness application built using Flutter and Android Studio, 
+The app provides a user-friendly interface and various features to assist individuals in managing their workouts, diet, and overall fitness routine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+
+**Flutter:** Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+**Android Studio:** The official IDE for Android development.
+
+
+## Screenshots
+
+![App Screenshot](https://www.mediafire.com/view/qlqn13pln2ugnjq/flutter_fit_2.png/file)
+
+![App Screenshot](https://www.mediafire.com/view/7rzjq8qqihqj3lb/flutterfit1.5.png/file)
+
+![App Screenshot](https://www.mediafire.com/view/s4ew4n4wupmeh0b/flutterfit1.png/file)
+
+
+## Download FlutterFit
+
+ You may Download and Install FlutterFit App
+
+Google Drive Link(20MB): http://bit.ly/47D5gQd
+
+MediaFire Link(20Mb): https://bit.ly/40K50Na
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/flutterFit.git
+```
+2. Clone the repository
+Launch Android Studio.\
+Select Open an existing Android Studio project.\
+Browse and select the flutterFit directory.\
+Click Open.    
+
+3.Run the app:\
+Connect a device or use an emulator.\
+Click on the Run button in Android Studio.
+## Feedback
+
+If you have any feedback, please reach out to me at waonicegood@gmail.com
+
