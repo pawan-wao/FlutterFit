@@ -17,7 +17,7 @@ The app provides a user-friendly interface and various features to assist indivi
 
 ## Screenshots
 
-![flutterfit1](https://github.com/pawan-wao/FlutterFit/assets/119276655/2543a9a7-a25d-467a-8a3f-4abcfa5b6e45)
+![flutterfit1](https://github.com/pawan-wao/FlutterFit/assets/119276655/25550f98-d984-4c24-8e8c-725cfbb53a36)
 ![flutterfit1 5](https://github.com/pawan-wao/FlutterFit/assets/119276655/d52e2021-d000-4235-b83d-4d472f341cda)
 ![flutter fit 2](https://github.com/pawan-wao/FlutterFit/assets/119276655/a492496e-d2aa-4d8c-a8d8-7a025f9f0c82)
 
