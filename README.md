@@ -17,12 +17,9 @@ The app provides a user-friendly interface and various features to assist indivi
 
 ## Screenshots
 
-![App Screenshot](https://www.mediafire.com/view/qlqn13pln2ugnjq/flutter_fit_2.png/file)
-
-![App Screenshot](https://www.mediafire.com/view/7rzjq8qqihqj3lb/flutterfit1.5.png/file)
-
-![App Screenshot](https://www.mediafire.com/view/s4ew4n4wupmeh0b/flutterfit1.png/file)
-
+![flutterfit1](https://github.com/pawan-wao/FlutterFit/assets/119276655/2543a9a7-a25d-467a-8a3f-4abcfa5b6e45)
+![flutterfit1 5](https://github.com/pawan-wao/FlutterFit/assets/119276655/d52e2021-d000-4235-b83d-4d472f341cda)
+![flutter fit 2](https://github.com/pawan-wao/FlutterFit/assets/119276655/a492496e-d2aa-4d8c-a8d8-7a025f9f0c82)
 
 ## Download FlutterFit
 
