@@ -22,7 +22,7 @@ The app provides a user-friendly interface and various features to assist indivi
 
 ## Download FlutterFit
 
- You may Download and Install FlutterFit App
+ You may Download and Install FlutterFit App:
 
 Google Drive Link(20MB): http://bit.ly/47D5gQd
 
